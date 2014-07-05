@@ -1,2 +1,2 @@
-module.exports = (d3 ? d3.rebind : require('./rebind'));
+module.exports = (typeof d3 !== 'undefined' ? d3.rebind : require('./rebind'));
 
