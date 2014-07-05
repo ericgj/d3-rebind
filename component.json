@@ -1,0 +1,15 @@
+{
+  "name": "d3-rebind",
+  "repo": "ericgj/d3-rebind",
+  "description": "d3.rebind",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "rebind.js"
+  ]
+}
